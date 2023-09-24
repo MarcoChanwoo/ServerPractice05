@@ -1,0 +1,13 @@
+# ServerPractice05
+- koa framework
+- REST API(Postman)
+- mongoose(MongoDB) / schema, model
+- 문법 변환(by esm)
+- data processing
+- Verification: ObjectId, Request Body
+- Pagination
+- JWT(JsonWebToken) / Token issued
+- Confirm API
+- Setting SECRET KEY
+- Token Verification
+- Win OS
